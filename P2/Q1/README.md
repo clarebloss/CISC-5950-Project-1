@@ -1,5 +1,6 @@
 The NBA collects mass amounts of data on shots taken during games, including who took the shot, where on the floor the shot was taken from, who was the nearest defender, how far away the nearest defender was, time on the shot clock, and much more.
 This data can be found for the 2014-2015 season on Kaggle at the following link: https://www.kaggle.com/dansbecker/nba-shot-logs.
+
 For each pair of players (A, B), we define the fear score as the hit rate when A is facing B and B is A's closest defender when A is shooting. 
 
 ## Question 1
