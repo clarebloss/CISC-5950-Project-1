@@ -10,11 +10,11 @@ The test.sh file will be used to run the mapper.py and reducer.py files to analy
 
 To prepare and execute the MapReduce analysis, place the following files in the specified directories at the master node:
 
-#### File Name                                       Directory
-Parking_Violations_Issued_-_Fiscal_Year_2021.csv	  /mapreduce-test/mapreduce-test-python/project1
-test.sh							                                /mapreduce-test/mapreduce-test-python/Part1Q1
-mapper.py						                                /mapreduce-test/mapreduce-test-python/Part1Q1
-reducer.py						                              /mapreduce-test/mapreduce-test-python/Part1Q1
+#### File Name                                      | Directory
+Parking_Violations_Issued_-_Fiscal_Year_2021.csv	  | /mapreduce-test/mapreduce-test-python/project1
+test.sh							                                | /mapreduce-test/mapreduce-test-python/Part1Q1
+mapper.py						                                | /mapreduce-test/mapreduce-test-python/Part1Q1
+reducer.py						                              | /mapreduce-test/mapreduce-test-python/Part1Q1
 
 
 To run the MapReduce analysis, 
