@@ -1,7 +1,7 @@
 The New York City Department of Finance collects data on every parking ticket issued in NYC (10 million per year). This data is made publicly available to aid in ticket resolution and to guide policy makers.
 This data can be found from the NYC Open Data website at https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2022/pvqr-7yc4.
 
-## Question 1
+## Question 3
 ### Where are tickets most commonly issued?
 
 To solve the following problem, we will be utilizing a 3-node Hadoop cluster hosted in Google Cloud to design a MapReduce-based program to analyze the data.
